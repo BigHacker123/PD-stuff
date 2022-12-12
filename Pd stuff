@@ -6,6 +6,7 @@ local HWID_Table = {
     ['g7S3adsbdDNkjdv19zsnrwRkMVKYh1bb'] = 'ADD952F2-1A9C-498C-93B5-5EF0508B2056', -- Exility
     ['g7S3bbAsbdDNkjdv19zsnrwzgMVKYh121'] = '4E4EACBF-13C7-4AD1-B6CD-F821A2DDC649', -- ︻デ═一#8273
     ['P7S3bbAsbODNkjdzB19zsnrwzgMVKYh12l'] = '8850A8D4-793C-4B0D-B4ED-E0D565F2B97C', -- 5fovdoom#6139
+    ['ZVS3bbAsbODNkjdzB19zsnrwzgMVKYh12z'] = '526756BA-333A-4C3D-A82E-E4CC5C1ABE11', -- IAmThePanda#5007
     
 }
 return HWID_Table
