@@ -3,6 +3,7 @@
 local HWID_Table = {
     ['R2Y3adsneDNggdv19XsnrwRkMVKYh1Ru'] = 'EFE6FE5A-EF94-4274-85D1-EC6BA6E71CCA', -- BurnHub
     ['Z7S3adsneDNkjdv19XsnrwRkMVKYh1ZK'] = '6DF5FB67-B3DC-480E-91DE-9AABE960F6B1', -- Genzo
+    ['g7S3adsbdDNkjdv19zsnrwRkMVKYh1bb'] = 'ADD952F2-1A9C-498C-93B5-5EF0508B2056', -- Exility
  
 }
 return HWID_Table
