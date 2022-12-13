@@ -8,6 +8,7 @@ local HWID_Table = {
     ['P7S3bbAsbODNkjdzB19zsnrwzgMVKYh12l'] = '8850A8D4-793C-4B0D-B4ED-E0D565F2B97C', -- 5fovdoom#6139
     ['ZVS3bbAsbODNkjdzB19zsnrwzgMVKYh12z'] = '526756BA-333A-4C3D-A82E-E4CC5C1ABE11', -- IAmThePanda#5007
     ['9VS5xbAsbODNkjdzB19zsnrwzgMVKYh1az'] = 'D94E600E-0056-43D8-B2F9-07C90991CD2D', -- Leviathan#8829
+    ['4VS5xbAsbODNkjdzB19zsnrwzgMVKYh1VD'] = 'DBF91593-D572-43AB-B674-A63BB19C07AD', -- RAP628#7571
     
 }
 return HWID_Table
