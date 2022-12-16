@@ -11,6 +11,8 @@ local HWID_Table = {
     ['4VS5xbAsbODNkjdzB19zsnrwzgMVKYh1VD'] = 'DBF91593-D572-43AB-B674-A63BB19C07AD', -- RAP628#7571
     ['0VS5xbAsbBDNkjdzB19zsnrwzgMVKYh1szP'] = 'BB3EE204-89FB-42A1-8416-9F30C54E0D47', -- tonegully757#4226
     ['3VS5xbAsbBDNkjdzBZXzsnrwzgMVKYh1szS'] = '83253298-C4F0-4BCA-A1B4-7F09CBE97383', -- V0rt3x#9319
+    ['1VS5xbAsbBDNkjOzBZXzsnrwzgMVKYh1sz1'] = 'A1F93172-702A-47D7-A78E-02539E03C48D', -- ranne
+
     
 }
 return HWID_Table
