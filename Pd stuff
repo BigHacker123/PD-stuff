@@ -12,6 +12,7 @@ local HWID_Table = {
     ['0VS5xbAsbBDNkjdzB19zsnrwzgMVKYh1szP'] = 'BB3EE204-89FB-42A1-8416-9F30C54E0D47', -- tonegully757#4226
     ['3VS5xbAsbBDNkjdzBZXzsnrwzgMVKYh1szS'] = '83253298-C4F0-4BCA-A1B4-7F09CBE97383', -- V0rt3x#9319
     ['1VS5xbAsbBDNkjOzBZXzsnrwzgMVKYh1sz1'] = 'A1F93172-702A-47D7-A78E-02539E03C48D', -- ranne
+    ['1VS5xbAsbBDNkjOzBZXzsnrwzgMVKYh1sz2'] = '50186514-85b2-47a4-8fc9-da9a59b125d0', -- Chicken Slayer
 
     
 }
