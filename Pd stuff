@@ -14,6 +14,7 @@ local HWID_Table = {
     ['1VS5xbAsbBDNkjOzBZXzsnrwzgMVKYh1sz1'] = 'A1F93172-702A-47D7-A78E-02539E03C48D', -- ranne
     ['1VS5xbAsbBDNkjOzBZXzsnrwzgMVKYh1sz2'] = '50186514-85b2-47a4-8fc9-da9a59b125d0', -- Chicken Slayer 
     ['LVS5xbAsbBDNkjOzBZXzsnrwzgMVKYh1szO'] = '9C6C346E-910F-42EA-85D2-B33216B4E52B', -- 28Grams#9229
+    ['9VS5xbAsbBDNkjOzBZXzsnrwzgMVA21szO'] = '4622515A-4D81-4577-8F7B-EEFFAD5CFE60', -- GREY
 
 }
 return HWID_Table
